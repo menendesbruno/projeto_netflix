@@ -1,0 +1,1 @@
+Este repositório será destinidado para o projeto "recriando a pagina do Netflix" do curso da Digital Innovation One.
